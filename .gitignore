@@ -4,6 +4,7 @@
 # Executable files
 *.out
 *.exe
+*.class
 
 # Mac system files
 .DS_Store
