@@ -1,0 +1,12 @@
+# Compiled Object files
+*.o
+
+# Executable files
+*.out
+*.exe
+
+# Mac system files
+.DS_Store
+
+# Build directory
+build/
