@@ -53,7 +53,6 @@ public class OOPSBannerAppUC4 {
                 "*********"
         );
 
-        
         for (String line : banner) {
             System.out.println(line);
         }
